@@ -1,6 +1,6 @@
 # Omnifood
 
-## The omnifood amazing website project built with HTML , CSS and JavaScript
+## The omnifood website project built with HTML , CSS and JavaScript
 
 ![alt text](https://github.com/moamen2020/Omnifood/blob/master/image.png?raw=true)
 
